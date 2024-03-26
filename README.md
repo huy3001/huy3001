@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huy3001
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning ReactJS and VueJS
+- 🌱 I’m currently working as a Senior Frontend Developer
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me? Mail to huy3001@gmail.com
 
